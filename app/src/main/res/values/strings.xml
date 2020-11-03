@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Binding Target Planning Document</string>
+    <string name="btnToday">今日</string>
+    <string name="btnMonth">今月</string>
+    <string name="btnHistory">履歴</string>
+    <string name="btnTask">タスク</string>
+    <string name="btnTimer">時間計測</string>
+    <string name="txtAddParentTask">今月の目標を入力してください</string>
+    <string name="txtAddTargetRate">(任意)数値目標を入力してください</string>
+    <string name="btnSaveParentTask">目標追加</string>
+    <string name="txtUnit">単位入力</string>
+    <string-array name="unitsList">
+        <item>なし</item>
+        <item>日</item>
+        <item>時間</item>
+        <item>分</item>
+        <item>つ</item>
+        <item>回</item>
+        <item>個</item>
+        <item>冊</item>
+        <item>枚</item>
+        <item>件</item>
+        <item>その他</item>
+    </string-array>
 </resources>
